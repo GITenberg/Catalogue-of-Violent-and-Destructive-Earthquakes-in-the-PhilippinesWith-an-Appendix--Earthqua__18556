@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '8108'
     url: http://www.gutenberg.org/2009/agents/8108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18556#Catalogue-of-Violent-and-Destructive-Earthquakes-in-the-PhilippinesWith-an-Appendix--Earthqua_
 gutenberg_bookshelf: Geology
 gutenberg_issued: '2006-06-11'
 gutenberg_type: Text
