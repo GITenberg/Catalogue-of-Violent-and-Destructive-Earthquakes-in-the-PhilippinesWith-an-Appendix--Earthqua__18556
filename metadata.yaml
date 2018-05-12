@@ -1,0 +1,32 @@
+_repo: Catalogue-of-Violent-and-Destructive-Earthquakes-in-the-PhilippinesWith-an-Appendix--Earthqua__18556
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saderra Masó, Miguel
+    aliases:
+    - Masó, Miguel Saderra
+    - Maso, Miguel Saderra
+    deathdate: 1939
+    gutenberg_agent_id: '8108'
+    url: http://www.gutenberg.org/2009/agents/8108
+description: ''
+gutenberg_bookshelf: Geology
+gutenberg_issued: '2006-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Earthquakes -- Mariana Islands'
+- !lcsh 'Earthquakes -- Philippines'
+title: 'Catalogue of Violent and Destructive Earthquakes in the Philippines
+
+  With an Appendix: Earthquakes in the Marianas Islands 1599-1909'
+url: http://www.gutenberg.org/ebooks/18556
